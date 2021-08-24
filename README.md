@@ -22,6 +22,6 @@ npm run lint
 
 ### Customize configuration
 
-####1:rem插件运用
+#### 1:rem插件运用
 
 >将css中的为px单位属性批量转成rem单位
