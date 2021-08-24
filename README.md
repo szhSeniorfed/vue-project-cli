@@ -1,5 +1,5 @@
 # my-project
-
+一个基于vuecli生成的前端项目，搭建一个通用的前端项目框架，下载即用，添加对应业务代码即可。
 ## Project setup
 ```
 npm install
