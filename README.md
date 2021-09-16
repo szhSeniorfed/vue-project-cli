@@ -25,3 +25,11 @@ npm run lint
 #### 1:rem插件运用
 
 >将css中的为px单位属性批量转成rem单位
+
+#### 2:vue-router应用
+
+>vue-router应用
+
+#### 3:vuex应用
+
+>vuex应用
