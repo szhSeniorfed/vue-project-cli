@@ -1,9 +1,16 @@
 <style lang="scss">
-
+    .center {
+        display: flex;
+    }
 </style>
 <template>
     <article>
-       <p>test</p> 
+        <div class="center">
+            <p>test:</p> 
+            <div>
+                <input type="text">
+            </div>
+        </div>
     </article>
 </template>
 <script>
